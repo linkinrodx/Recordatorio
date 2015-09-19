@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Facil de Recordar</string>
+
+    <string name="title_activity_add_reminder">Agregar Recordatorio</string>
+    <string name="title_activity_edit_reminder">Modificar Recordatorio</string>
+    <string name="title_activity_licenses">Acerca de</string>
+
+    <string name="add_reminder">Recordatorio</string>
+    <string name="details">Detalles</string>
+    <string name="date">Fecha</string>
+    <string name="time">Hora</string>
+    <string name="repeat">Repetir</string>
+    <string name="repeat_off">Apagar</string>
+    <string name="repeat_no">Numero de Repetición</string>
+    <string name="repeat_type">Tipos de Repeticion</string>
+    
+    <string name="action_discard_reminder">Descartar Recordatorio</string>
+    <string name="action_save_reminder">Guardar Recordatorio</string>
+    
+    <string name="no_reminders">Haga clic en el botón de abajo para crear sus recordatorios</string>
+
+    <string name="licenses">
+        <BIG><b>Facil de Recordar</b></BIG> \n\n
+
+        <TT>
+            Facil de Recordar es la forma mas sencilla de hacer tus cosas.
+            Ya sea para planificar tu horario escolar, organizar tus tareas
+            diarias y hasta mantenerte siempre puntual en los proyectos
+            de tu trabajo.\n\n
+
+            Esta aplicación tiene como objetivo ayudar a personas que tienen
+            una vida ocupada son personas que tienen muchas responsabilidades,
+            es a ellas a las que esta destinada nuestra aplicación.\n\n
+
+            Facil de Recordar está aquí para ayudarte a marcar como hechas
+            todas tus tareas personales, estudiantiles y profesionales.\n\n
+
+            *    No dejes que nada se te olvide.\n
+            *    Ponte al tanto de todo.\n
+            *    Recibe recordatorios en cualquier momento.\n
+            *    Establece fechas y horas.\n\n
+
+            Nunca llegues tarde a nada "Facil de Recordar" estara a cargo.\n\n
+
+            Version del Producto: 1.0\n\n
+            Licencia: GPLv3\n\n
+
+            Desarrollado por:\n
+
+            -    Saraya Salas, Rodrigo\n
+            -    Laban Laban, Lester\n
+            -    Poma Pancaya, Alex
+        </TT>
+    </string>
+
+</resources>
